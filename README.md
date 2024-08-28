@@ -1,5 +1,5 @@
 
-# Telco Customer Churn Prediction
+# Telcom Customer Churn Prediction
 
 This repository contains the analysis and model performance metrics for predicting customer churn using the Telco customer churn dataset. The model's performance metrics, key findings, and actionable insights are detailed below.
 
